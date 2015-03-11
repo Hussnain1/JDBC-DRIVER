@@ -1,0 +1,24 @@
+JDBC Driver
+
+Introduction:
+Type 1
+Using ODBC Driver
+
+Implementation:
+	2 Java Projects:
+1.	JDBC Driver
+2.	Driver Tester
+JDBC Driver:
+	There are four different classes in JDBC Driver project:
+1.	myDriver.java
+2.	myConn.java
+3.	myStatement.java
+4.	myResultSet.java
+Functions Implemented:
+1.	Connection()
+2.	CreateStatement()
+3.	executeQuery()
+	
+
+GitHub link: 
+https://github.com/Hussnain1/JDBC-DRIVER
